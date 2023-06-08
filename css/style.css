@@ -1,6 +1,5 @@
 body {
     background: rgb(79, 106, 228);
-    margin: 0;
 }
 
 .wrapper {
@@ -81,7 +80,6 @@ nav ul li a:hover {
 
 section {
     background-color: #fff;
-    width: 94%;
     padding: 20px 3%;
 }
 
