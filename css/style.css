@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5, h6, p {
     line-height: 24px;
 }
 
+
 h1 {
     font-weight: 600;
     font-size: 32px;
@@ -107,6 +108,14 @@ section {
   }
 
   /* Sign Up */
+
+.signup-form p{
+    text-align: center;
+    color: rgb(179, 0, 0);
+    font-weight: 900;
+    font-size: 18px;
+
+}
 
 .signup-form-form form {
     display: flex;
