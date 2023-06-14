@@ -12,18 +12,8 @@
         </section>
 
         <section class="index-categories">
-            <h2>Categories</h2>
-            <div class="index-categories-list">
-                <div>
-                    <h3>Suggest a book</h3>
-                </div>
-                <div>
-                    <h3>Vote for a book</h3>
-                </div>
-                <div>
-                    <h3>Choose your availability</h3>
-                </div>
-            </div>
+            <h2>Profile Page</h2>
+
         </section>
     </div>
 
