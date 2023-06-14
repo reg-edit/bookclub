@@ -13,6 +13,13 @@
 
         <section class="index-categories">
             <h2>Profile Page</h2>
+            <p>
+            <?php 
+                $welcome = "Hi there, user: ";
+                echo $welcome; 
+                echo $_SESSION["useruid"]
+            ?>
+            </p>
 
         </section>
     </div>
