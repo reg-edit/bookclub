@@ -19,8 +19,8 @@
             if ($_GET["error"] == "emptyinput") {
                 echo "<p>Fill in all fields!</p>";
             }
-            else if ($_GET["error"] == "invalidemail") {
-                echo "<p>Enter valid email address!</p>";
+            else if ($_GET["error"] == "wronglogin") {
+                echo "<p>Incorrect login details!</p>";
             }    
         }
     

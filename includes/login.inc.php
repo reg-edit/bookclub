@@ -13,4 +13,9 @@ if(isset($_POST["submit"])) {
         exit();
     }
 
+    loginUser($conn, $username, $pwd);
+}
+else {
+    header("location: ../signup.php?error=stmtfailed");
+    exit();
 }
